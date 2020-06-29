@@ -1,28 +1,23 @@
-# This is a large heading
+# Juan García
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Guadalajara, in the state of Jalisco, in Mexico.
 
-- This is
-- an unordered
-- list
+###  Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Visión de los vencidos* by Miguel León Portilla.
+- *La jaula de la melancolía* by Roger Bartra.
+- *México profundo* by Guillermo Bonfil Batalla.
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+My favorite food are:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Chile en nogada.
+2. Echiladas.
+3. Tacos al pastor.
+
+You can find me at [on Twitter] (https://twitter.com/jcarlosgarciav).
